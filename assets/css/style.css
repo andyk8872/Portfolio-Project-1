@@ -61,3 +61,28 @@ h1 {
 #main-nav li a:hover {
     color: #48838c;
 }
+
+/* media queries */
+
+@media screen and (min-width: 768px) {
+	#header,
+	#main-nav {
+		display: flex;
+	}
+
+	#header {
+		flex-direction: column;
+		align-items: center;    	
+	}
+}
+
+@media screen and (min-width: 992px) {
+	#header {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.active {
+		border-bottom: 1px solid #3a3a3a;	
+	}
+}
