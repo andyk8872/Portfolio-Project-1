@@ -113,6 +113,31 @@ h1 {
 	font-size: 180%;
 }
 
+/* gallery */
+
+.container {
+	padding: 40px 5%;
+  }
+  
+  .image-gallery {	
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+  }
+  
+  .image-gallery .column {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+  }
+  
+  .image-item img {
+	width: 100%;
+	border-radius: 5px;
+	height: 100%;
+	object-fit: cover;
+  }
+
 /* footer */
 
 footer {
@@ -150,6 +175,10 @@ footer {
 		flex-direction: column;
 		align-items: center;    	
 	}
+
+	.image-gallery {
+		flex-direction: row;
+	  }
 }
 
 @media screen and (min-width: 992px) {
