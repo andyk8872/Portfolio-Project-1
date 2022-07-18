@@ -138,6 +138,19 @@ h1 {
 	object-fit: cover;
   }
 
+  .video-container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	gap: 10px;	
+  } 
+
+  .video-title {
+	text-align: center;
+	margin-bottom: 25px;
+	font-size: 280%;
+  }
+
   /* signup */
 #signup {
 	padding: 5% 0;
