@@ -22,11 +22,16 @@
 
 <img src="docs/nav-bar.png" alt="Navigation image" width="100%" height="100">
 
-### The Hero Image and the Coffee image
+### The Hero Image and the Coffee image:
+
+* The Hero image...
+---
+---
+## Technologies Used:
 
 ---
 ---
-## Testing and Validation
+## Testing and Validation:
 
 * Cardio Rehab has been tested. All pages have been tested using WC3 HTML Validator and WC3 CSS Validator. The results are as below:
   * Home Page
@@ -40,3 +45,20 @@
   <img src="docs/signup-html.png" alt="Responsive image" width="100%" height="40">
   * WC3 CSS Validation:
   <img src="docs/css-validation.png" alt="Responsive image" width="100%" height="200">
+  * Accessibility through Lighthouse in devtools:
+  <img src="docs/lighthouse.png" alt="Responsive image" width="100%" height="200">
+
+  ---
+  ---
+  ## Deployment:
+
+  ---
+  ---
+  ## Credits:
+
+  ---
+  ---
+  ## Acknowledgements:
+
+  ---
+  ---
