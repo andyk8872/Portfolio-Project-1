@@ -114,7 +114,6 @@ h1 {
 }
 
 /* gallery */
-
 #container {
 	padding: 40px 5%;
   }
@@ -137,19 +136,20 @@ h1 {
 	height: 100%;
 	object-fit: cover;
   }
-
+/* 
   .video-container {
 	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	gap: 10px;	
-  } 
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	gap: 10px;
+  }
 
-  .video-title {
+ .video-title {
 	text-align: center;
 	margin-bottom: 25px;
 	font-size: 280%;
-  }
+  } */
 
   /* signup */
 #signup {
@@ -238,6 +238,11 @@ footer {
 	.image-gallery {
 		flex-direction: row;
 	  }
+/* 
+	.video-container {
+		flex-direction: row;
+		justify-content: space-around;
+	} */
 }
 
 @media screen and (min-width: 992px) {
