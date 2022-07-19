@@ -9,4 +9,4 @@
 
 ## Users of this site who signup will be given information about physical rehab as well as meetings for like-minded people in a similar situation.
 ---
-<img src="docs/ami-response.png" alt="Responsive image" width="80%" height="400">
+<img src="docs/ami-response.png" alt="Responsive image" width="100%" height="500">
