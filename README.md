@@ -24,25 +24,55 @@
 #### Frequent Visitor Goals
 * As a Frequent user, I want to check to see if there are any new upcoming events.
 * As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes Cardio Rehab times and meetings.
-### Structure
-All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to easily allow users to Navigate the site easily.
-All Pages will contain a uniform font and color scheme to enable easy navigation.
+---
+## Structure
+* All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to easily allow users to Navigate the site easily.
+* All Pages will contain a uniform font and color scheme to enable easy navigation.
 
 ## Features
 ---
-### The Header and Navigation
+### The Header and Navigation (on all pages)
 
 * Positioned at the top of the page is the Logo (Cardio Rehab) and the  navigation links to the other pages.
 * The navigation links are: Home, Gallery & Video and Sign Up. Each of these links will take you to a new page.
-* In order for the user to be aware what page they are on the current link is underlined. Also when the user hovers on a link it will chamge color.
+* In order for the user to be aware what page they are on the current link is underlined. Also when the user hovers on a link it will change color.
 * The navigation bar allows the user to quickly navigate between pages, and all pages have the same navigation bar to allow the user to traverse the site quickly and easily.
 
 ![Navigation Bar](docs/nav-bar.jpg)
 
 ### The Hero Image and the Coffee image:
 
-* The Hero image...
----
+* The Hero image's purpose is to immediately arrests a user's attention.
+![Hero Image](docs/hero1.jpg)
+
+### The About Section:
+
+* As a user I would like to know simply what the site is offering.
+![About Section](docs/about.jpg)
+
+### The Footer Section/Social Media (on all pages)
+
+* As a user I would like to be able to link to the assosiated social media links
+![Social Media](docs/social.jpg)
+
+### Video Section
+
+* As a user would I would like to get a preview of the exercise regime assosiated with Cardio Rehab.
+![Video](docs/video.jpg)
+
+### Gallery Section
+
+* A selection of exercise photos and people meeting up and having coffee/tea etc.
+![Gallery](docs/gallery.jpg)
+
+### Signup Form
+
+* As a user I can signup to the newsletter.
+
+   ![Sign](docs/signup.jpg)
+
+
+
 ---
 ## Technologies Used:
 
