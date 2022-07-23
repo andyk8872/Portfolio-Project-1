@@ -9,7 +9,24 @@
 
 ## Users of this site who signup will be given information about physical rehab as well as meetings for like-minded people in a similar situation.
 ---
-<img src="docs/ami-response.png" alt="Responsive image" width="100%" height="500">
+![Website Mock Up](docs/test.jpg)
+
+## User Experience Design
+---
+### User stories
+#### First Time Visitor Goals
+* As a First Time user, I want to easily understand the main purpose of the site and learn more about where to go and who to talk to..
+* As a First Time user, I want to be able to easily navigate throughout the site to find content.
+* As a First Time user, I want to view the website and content clearly on my mobile device.
+* As a First Time user, I want to find ways to follow on different social media platforms.
+#### Returning Visitor Goals
+* As a Returning user, I want to contact Cardio Rehab so I can request more information.
+#### Frequent Visitor Goals
+* As a Frequent user, I want to check to see if there are any new upcoming events.
+* As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes Cardio Rehab times and meetings.
+### Structure
+All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to easily allow users to Navigate the site easily.
+All Pages will contain a uniform font and color scheme to enable easy navigation.
 
 ## Features
 ---
@@ -20,7 +37,7 @@
 * In order for the user to be aware what page they are on the current link is underlined. Also when the user hovers on a link it will chamge color.
 * The navigation bar allows the user to quickly navigate between pages, and all pages have the same navigation bar to allow the user to traverse the site quickly and easily.
 
-<img src="docs/nav-bar.png" alt="Navigation image" width="100%" height="100">
+![Navigation Bar](docs/nav-bar.jpg)
 
 ### The Hero Image and the Coffee image:
 
@@ -47,6 +64,8 @@
   <img src="docs/css-validation.png" alt="Responsive image" width="100%" height="200">
   * Accessibility through Lighthouse in devtools:
   <img src="docs/lighthouse.png" alt="Responsive image" width="100%" height="200">
+  ![Website Mock Up](docs/lighthouse.png)
+  
 
   ---
   ---
