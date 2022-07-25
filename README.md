@@ -38,9 +38,9 @@
 * In order for the user to be aware what page they are on the current link is underlined. Also when the user hovers on a link it will change color.
 * The navigation bar allows the user to quickly navigate between pages, and all pages have the same navigation bar to allow the user to traverse the site quickly and easily.
 
-![Navigation Bar](docs/nav-bar.jpg)
+  ![Navigation Bar](docs/nav-bar.jpg)
 
-### The Hero Image and the Coffee image:
+### The Hero Image:
 
 * The Hero image's purpose is to immediately arrests a user's attention.
 ![Hero Image](docs/hero1.jpg)
@@ -55,48 +55,38 @@
 * As a user I would like to be able to link to the assosiated social media links
 ![Social Media](docs/social.jpg)
 
-### Video Section
+### Video Section  
 
-* As a user would I would like to get a preview of the exercise regime assosiated with Cardio Rehab.
+* As a user would I would like to get a preview of the exercise regime assosiated with Cardio Rehab.  
 ![Video](docs/video.jpg)
 
-### Gallery Section
+### Gallery Section  
 
 * A selection of exercise photos and people meeting up and having coffee/tea etc.
-![Gallery](docs/gallery.jpg)
 
-### Signup Form
+  ![Gallery](docs/gallery.jpg)
+
+### Signup Form  
 
 * As a user I can signup to the newsletter.
 
    ![Sign](docs/signup.jpg)
+---
+## Testing and Validation:
 
+* Cardio Rehab has been tested by the W3C CSS Validator and Nu Html Checker.
+  * All pages have been tested using WC3 HTML Validator and WC3 CSS Validator. The there were no errors in the HTML code on any of the pages.
+  ![Video](docs/html-checker.jpg)
 
-
+  * WC3 CSS Validation:
+  ![Video](docs/css.jpg)
+  * Accessibility through Lighthouse in devtools:
+  
+  
 ---
 ## Technologies Used:
 
 ---
----
-## Testing and Validation:
-
-* Cardio Rehab has been tested. All pages have been tested using WC3 HTML Validator and WC3 CSS Validator. The results are as below:
-  * Home Page
-  <img src="docs/index-errors.png" alt="Responsive image" width="100%" height="300">
-      * These erors were easily remedied.
-  <img src="docs/index-no-errors.png" alt="Responsive image" width="100%" height="40">
-  * Gallery Page
-  <img src="docs/gallery-html-errors.png" alt="Responsive image" width="100%" height="200">
-      * The error that a section was without a 'heading' was deemed OK to remain.
-  * Sign Up Page
-  <img src="docs/signup-html.png" alt="Responsive image" width="100%" height="40">
-  * WC3 CSS Validation:
-  <img src="docs/css-validation.png" alt="Responsive image" width="100%" height="200">
-  * Accessibility through Lighthouse in devtools:
-  <img src="docs/lighthouse.png" alt="Responsive image" width="100%" height="200">
-  ![Website Mock Up](docs/lighthouse.png)
-  
-
   ---
   ---
   ## Deployment:
