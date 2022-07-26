@@ -62,7 +62,7 @@
 ![Video](docs/video.jpg)
 
 ### Gallery Section  
-
+* As a user I would like to know/see exactly what Cardio Rehab, Sligo has to offer 
 * A selection of exercise photos and people meeting up and having coffee/tea etc.
 
   ![Gallery](docs/gallery.jpg)
@@ -75,6 +75,9 @@
 ---
 ## Testing and Validation:
 
+* I tested all pages on Chrome, Firefox and Safari.
+* Through Chrome devtools I have tested responsiveness on all device sizes.
+* The 'signup' form section requires appropriate entries in all fields.
 * Cardio Rehab has been tested by the W3C CSS Validator and Nu Html Checker.
   * All pages have been tested using WC3 HTML Validator and WC3 CSS Validator. The there were no errors in the HTML code on any of the pages.
   ![Video](docs/html-checker.jpg)
@@ -85,8 +88,11 @@
   * Accessibility through Lighthouse in devtools:
     (Accessibility through Lighthouse was 100% on all pages on all device sizes.)
 
-    ![Video](docs/lighthouse.jpg)
-  
+    ![Video](docs/lighthouse.jpg)  
+---
+## Bugs
+
+* The WC3 HTML Validator did not like the fact that 'section's' did not contain a 'heading' (e.g. h1) so replaced with a 'div' instead on index.html and gallery.html pages.
 ---
 ## Technologies Used:
 * HTML
@@ -120,11 +126,7 @@
   1. Goto the Git Hub Pages Heading.
   1. Select 'Main Branch' as the source.
   1. Click the Save button.
-  1. Click on the link to go to the live deployed page. [Live Site:](https://andyk8872.github.io/Portfolio-Project-1/)
-
-  ---
-  ## Colors and Fonts:
-  * 
+  1. Click on the link to go to the live deployed page. [Live Site:](https://andyk8872.github.io/Portfolio-Project-1/) 
   ---
   ## Credits:
   *  Pexels [All Images:](https://www.pexels.com/)
@@ -133,6 +135,12 @@
   *  Pixbay [Favicon Image](https://pixabay.com/)
   ---
   ## Acknowledgements:
-
+  * I would like to thank my mentor Ronan McClelland for his guidence throughout this project.
+  * As this was my first project and readme.md file; I viewed numerous other Code Institute students past present examples.
   ---
+  ## Comments:
+  * In relation to Git Commits: The project was completely re-done twice -
+    * Firstly, due to starting with Destop first responsiveness.
+    * Secondly, due to Flexbox issues (trying to incorporate them with block positioning) Some of the code was copied from the previous attempts. All code was written by Andrew Kennedy unless otherwise acknowledged.
+     
   
