@@ -93,6 +93,7 @@
 ## Bugs
 
 * The WC3 HTML Validator did not like the fact that 'section's' did not contain a 'heading' (e.g. h1) so replaced with a 'div' instead on index.html and gallery.html pages.
+* Lighthouse in devtools showed only 97% accessibility due to the 'button' color in the signup.html; this was resolved when when the color was changed (darker shade).
 ---
 ## Technologies Used:
 * HTML
