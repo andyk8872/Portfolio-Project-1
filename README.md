@@ -80,22 +80,37 @@
 
   * WC3 CSS Validation:
   ![Video](docs/css.jpg)
+
   * Accessibility through Lighthouse in devtools:
-  
+    (Accessibility through Lighthouse was 100% on all pages on all device sizes.)
+
+    ![Video](docs/lighthouse.jpg)
   
 ---
 ## Technologies Used:
 
 ---
-  ---
-  ---
   ## Deployment:
+  ### Using Github Pages
+  1. Navigate to the GitHub [Repository:](https://github.com/andyk8872/Portfolio-Project-1)
+  1. Click the 'Settings' Tab.
+  1. Scroll Down to the Git Hub Pages Heading.
+  1. Select 'Master Branch' as the source.
+  1. Click the Save button.
+  1. Click on the link to go to the live deployed page. [Live Site:](https://andyk8872.github.io/Portfolio-Project-1/)
+
+  ### Run Locally
+  1. Navigate to the GitHub [Repository:](https://github.com/andyk8872/Portfolio-Project-1)
+  1. Click the Code drop down menu.
+  1. Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+  1. Open your developement editor of choice and open a terminal window in a directory of your choice.
+  1. Use the 'git clone' command in terminal followed by the copied git URL.
+  1. A clone of the project will be created locally on your machine.
 
   ---
+  ## Colors and Fonts
   ---
   ## Credits:
-
-  ---
   ---
   ## Acknowledgements:
 
