@@ -15,20 +15,21 @@
 ---
 ### User stories
 #### First Time Visitor Goals
-* As a First Time user, I want to easily understand the main purpose of the site and learn more about where to go and who to talk to..
-* As a First Time user, I want to be able to easily navigate throughout the site to find content.
-* As a First Time user, I want to view the website and content clearly on my mobile device.
+* As a First Time user, I want to easily understand the main purpose of the site andfind more information.
+* As a First Time user, I want to be able to easily navigate throughout the site.
+* As a First Time user, I want to view the website and content clearly any device.
 * As a First Time user, I want to find ways to follow on different social media platforms.
 #### Returning Visitor Goals
 * As a Returning user, I want to contact Cardio Rehab so I can request more information.
 #### Frequent Visitor Goals
-* As a Frequent user, I want to check to see if there are any new upcoming events.
-* As a Frequent user, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes Cardio Rehab times and meetings.
+* As a Frequent user, I want to check to see if there are any new events.
+* As a Frequent user, I want to sign up to the Newsletter so that I am Emailed any major updates and/or changes Cardio Rehab times and meetings.
 ---
 ## Structure
 * All Pages will contain a Navigation menu at the top of the Webpage that directs them to a new Page to easily allow users to Navigate the site easily.
 * All Pages will contain a uniform font and color scheme to enable easy navigation.
-
+* All pages will be responsive.
+* All pages will be have the same navigation and footer so as to make it easier to navigate/undersand.
 ## Features
 ---
 ### The Header and Navigation (on all pages)
@@ -89,51 +90,47 @@
 ---
 ## Technologies Used:
 * HTML
-	* This project uses HTML as the main language used to complete the structure of the Website.
+	* This project uses HTML to complete the structure of the Website.
 * CSS
-	* This project uses custom written CSS to style the Website.
+	* This project uses CSS to style the Website.
 * [Font Awesome](https://fontawesome.com/)
 	* Font awesome Icons are used for the Social media links contained in the Footer section of the website.
 * [Google Fonts](https://fonts.google.com/)
 	* Google fonts are used throughout the project to import the *Lato* and *Oswald* fonts.
 * [Visual Studio Code](https://code.visualstudio.com/)
-	* VS Code is the Integrated Development Environment used to develop the Website.
+	* VS Code via Gitpod is the Integrated Development Environment used to develop the Website.
 * [GitHub](https://github.com/)
 	* GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
 * [Git](https://git-scm.com/)
 	* Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
 * [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
-	* Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
-* [MS PAINT](https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
+	* Google chromes built in developer tools are used to inspect page elements and help debug issues and test different CSS styles as well as test responsiveness.
+* [MS PAINT](https://support.microsoft.com/en-us/windows/get-microsoft-paint)
   * The images were resized using mspaint.
 * [Favicon](https://favicon.io/)
     * Favicon.io was used to make the site favicon 
 * [Ami Responsive](https://ui.dev/amiresponsive)
-    * tecnisih.com Multi Device Website Mockup Generator was used to create the Mock up image in this README
+    * Multi Device Website Mockup Generator was used to create the Mock up image in this README
 
 ---
   ## Deployment:
   ### Using Github Pages
   1. Navigate to the GitHub [Repository:](https://github.com/andyk8872/Portfolio-Project-1)
   1. Click the 'Settings' Tab.
-  1. Scroll Down to the Git Hub Pages Heading.
-  1. Select 'Master Branch' as the source.
+  1. Goto the Git Hub Pages Heading.
+  1. Select 'Main Branch' as the source.
   1. Click the Save button.
   1. Click on the link to go to the live deployed page. [Live Site:](https://andyk8872.github.io/Portfolio-Project-1/)
-
-  ### Run Locally
-  1. Navigate to the GitHub [Repository:](https://github.com/andyk8872/Portfolio-Project-1)
-  1. Click the Code drop down menu.
-  1. Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
-  1. Open your developement editor of choice and open a terminal window in a directory of your choice.
-  1. Use the 'git clone' command in terminal followed by the copied git URL.
-  1. A clone of the project will be created locally on your machine.
 
   ---
   ## Colors and Fonts:
   * 
   ---
   ## Credits:
+  *  Pexels [All Images:](https://www.pexels.com/)
+  *  Flexbox [Youtube tutorial for Flexbox-Nav-Bar:](https://www.youtube.com/watch?v=mh36Kts-wX8)
+  *  Love Running project fro the Footer.
+  *  Pixbay [Favicon Image](https://pixabay.com/)
   ---
   ## Acknowledgements:
 
