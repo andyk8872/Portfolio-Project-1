@@ -132,7 +132,7 @@
   ## Credits:
   *  Pexels [All Images:](https://www.pexels.com/)
   *  Flexbox [Youtube tutorial for Flexbox-Nav-Bar:](https://www.youtube.com/watch?v=mh36Kts-wX8)
-  *  Love Running project fro the Footer.
+  *  Love Running project from the Footer.
   *  Pixbay [Favicon Image](https://pixabay.com/)
   *  Codepen & the CodePen Community in relation to examples/ideas for flexbox: [CodePen](https://codepen.io/)
      *  SignUp Page - Examples of background images with overlay.
