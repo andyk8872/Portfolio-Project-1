@@ -134,6 +134,9 @@
   *  Flexbox [Youtube tutorial for Flexbox-Nav-Bar:](https://www.youtube.com/watch?v=mh36Kts-wX8)
   *  Love Running project fro the Footer.
   *  Pixbay [Favicon Image](https://pixabay.com/)
+  *  Codepen & the CodePen Community in relation to examples/ideas for flexbox: [CodePen](https://codepen.io/)
+     *  SignUp Page - Examples of background images with overlay.
+     *  Gallery Page - Examples using flexbox with an image gallery.  
   ---
   ## Acknowledgements:
   * I would like to thank my mentor Ronan McClelland for his guidence throughout this project.
@@ -141,7 +144,7 @@
   ---
   ## Comments:
   * In relation to Git Commits: The project was completely re-done twice -
-    * Firstly, due to starting with Destop first responsiveness.
+    * Firstly, due to starting with Desktop first responsiveness and changing to mobile-first.
     * Secondly, due to Flexbox issues (trying to incorporate them with block positioning) Some of the code was copied from the previous attempts. All code was written by Andrew Kennedy unless otherwise acknowledged.
      
   
