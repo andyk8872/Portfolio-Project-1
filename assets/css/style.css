@@ -171,7 +171,7 @@ h1 {
 
 .signup-container {  
 	background: #000 url(https://images.pexels.com/photos/5257645/pexels-photo-5257645.jpeg?auto=compress&cs=tinysrgb&w=1600);
-	height: 600px;
+	height: 100vh;
 	width: 100%;
 	display: flex;
 	justify-content: center;
@@ -235,7 +235,7 @@ h1 {
 /* footer */
 
 footer {
-	background-color: #007600;
+	background-color: #f4f4f4;	
 }
 
 #social-networks {
@@ -247,9 +247,9 @@ footer {
 }
 
 #social-networks i {
-    font-size: 160%;
+    font-size: 32px;
     margin: 1%;
-    padding: 5%;
+    padding: 5px;
     color: #3a3a3a;
 }
 
