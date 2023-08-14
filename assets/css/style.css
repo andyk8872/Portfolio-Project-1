@@ -235,9 +235,8 @@ h1 {
 /* footer */
 
 footer {
-	background-color: #f4f4f4;
-	
-
+	/* background-color: #f4f4f4; */
+	background-color: rebeccapurple;
 }
 
 #social-networks {
