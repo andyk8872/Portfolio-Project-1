@@ -68,13 +68,13 @@ h1 {
 .hero-image {
     height: 300px;
     width: 100%;
-    background:url('../images/hero-image.jpg') no-repeat center center;       
+    background:url('../images/hero2.jpg') no-repeat center center;       
 }
 
 .hero-gallery {
     height: 400px;
     width: 100%;
-    background:url('../images/hero-3.jpg') no-repeat center center;       
+    background:url('../images/hero3.jpg') no-repeat center center;       
 }
 
 /* about section */
@@ -284,4 +284,16 @@ footer {
 	.active {
 		border-bottom: 1px solid #3a3a3a;	
 	}
+}
+
+/* This is the new additions */
+
+#original-about {
+	display: none;
+}
+
+.box {
+	height: 300px;
+	width: 300px;
+	border: 3px solid red;
 }
