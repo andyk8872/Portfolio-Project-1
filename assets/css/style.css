@@ -59,8 +59,8 @@ h1 {
     font-size: 110%;
 }
 
-#main-nav li a:hover {
-    color: #48838c;
+#main-nav a:hover {
+    color: #48838c !important;
 }
 
 /* hero image */
@@ -77,41 +77,24 @@ h1 {
     background:url('../images/hero3.jpg') no-repeat center center;	     
 }
 
-/* about section */
-
-.container-about {
+/* new-section */
+.landing-image {
+	padding: 40px 5%;
 	display: flex;
+	justify-content: space-evenly;
 	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: center;
-	background-color: #626269;
-	color: #fff;
+	gap: 20px;
+	background-color: #f4f4f4;
 }
 
-.left {
-	height: 400px;	
-}
+.landing-image img {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+	border: 1px solid black;
+  }
 
-.left-inner {	
-	background-color: #48838c;
-	padding: 65px;
-	align-self: center;
-	max-width: 100%;		
-}
 
-.right{
-   padding: 25px 0;
-}
-
-.left-inner > h2 {
-	font-size: 2.8rem;
-	text-align: center;
-}
-
-.left-info {
-	list-style: none;
-	font-size: 1.8rem;
-}
 
 /* gallery */
 #container {
@@ -288,20 +271,3 @@ footer {
 
 /* This is the new additions */
 
-#original-about {
-	display: none;
-}
-
-.landing-image {
-	padding: 40px 5%;
-	display: flex;
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-}
-
-.landing-image img {
-	width: 300px;
-	height: 300px;
-	object-fit: cover;
-	gap: 10px 20px; /* row-gap column gap */
-  }
