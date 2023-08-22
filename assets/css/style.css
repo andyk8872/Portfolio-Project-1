@@ -305,6 +305,8 @@ footer {
 
 .padding {
 	padding: 15px 0;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .underline {
@@ -317,6 +319,3 @@ footer {
 	display: flex;
 	justify-content: center;
 }
-
-
-
